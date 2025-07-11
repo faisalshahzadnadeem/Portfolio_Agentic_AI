@@ -1,8 +1,6 @@
 # Portfolio_Agentic_AI
 # Medical Imaging Diagnosis Agent
 
-![Medical Imaging](https://your-image-link-or-gif-here.com)
-
 ## Overview
 
 This project implements a **Medical Imaging Diagnosis Agent** powered by the **Agno** framework and **Google Gemini 2.0 Flash**. The agent assists healthcare professionals by analyzing medical images such as X-rays, MRIs, CT scans, and ultrasounds to provide:
