@@ -35,6 +35,6 @@ The project includes a Streamlit-based UI for uploading images and receiving ins
 Make sure you have Python 3.8+ installed. Then, clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/medical-imaging-agent.git
+git clone https://github.com/faisalshahzadnadeem/medical-imaging-agent.git
 cd medical-imaging-agent
-pip install -r requirements.txt
+
