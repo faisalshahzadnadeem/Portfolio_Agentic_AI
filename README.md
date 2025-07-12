@@ -1,4 +1,3 @@
-# Portfolio_Agentic_AI
 # Medical Imaging Diagnosis Agent
 
 ## Overview
